@@ -40,6 +40,8 @@ content = """
 </body>
 </html>
 ```
+## README.md
+```
 class myhandler(BaseHTTPRequestHandler):
 def do_GET(self):
 print("request received")
@@ -51,6 +53,7 @@ server_address = ('',8000)
 httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
+```
 
 ## OUTPUT:
 ![5 COMPANIES](https://github.com/Sahithya373/simplewebserver/assets/147017926/d7315132-104b-41ca-9bf2-11d6e12c5fc5)
