@@ -1,5 +1,4 @@
 # EX01 Developing a Simple Webserver
-## Date: 5/10/2023
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -56,7 +55,11 @@ httpd.serve_forever()
 ## OUTPUT:
 ![5 COMPANIES](https://github.com/Sahithya373/simplewebserver/assets/147017926/d7315132-104b-41ca-9bf2-11d6e12c5fc5)
 
-![SIMPLE SERVER OUTPUT](https://github.com/Sahithya373/simplewebserver/assets/147017926/5eac1821-018e-45d2-a66e-4653a9409137)
+
+
+
+
+![SIMPLE SERVER OUTPUT](https://github.com/Sahithya373/simplewebserver/assets/147017926/81253cce-4c22-4c0c-b7f5-67d6fb608b8a)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
