@@ -57,7 +57,8 @@ httpd.serve_forever()
 ## OUTPUT:
 !![Alt text](<Screenshot (20).png>)
 
-[Alt text](<Screenshot (19) - Copy.png>)
+![Screenshot (19) - Copy](https://github.com/Sahithya373/simplewebserver/assets/147017926/0cb118b2-71e7-4c9f-888c-cf83fe4da79e)
+
 
 
 ## RESULT:
